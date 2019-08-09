@@ -190,12 +190,12 @@ nav a:hover {
 	text-decoration: overline;
 }
 
-.about0{
-    display: flex;
-    flex-direction: column;
-    padding-bottom: 1.5%;
-    margin-bottom:1%;
-    border-bottom: 1px dashed black;
+.about0 {
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 1.5%;
+	margin-bottom: 1%;
+	border-bottom: 1px dashed black;
 }
 
 .about-items {
@@ -203,18 +203,110 @@ nav a:hover {
 	flex-wrap: wrap;
 }
 
-.top2 {
-    display: flex;
-}
-.about-bottom{
-display: flex;
-flex-direction: column;
-margin-bottom: 2%;
+.b1 {
+	width: 100%;
+	height: 100px;
+	background: teal;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
-img{
-    margin-top:.5%;
-    margin-bottom:.5%;
+.b2{
+    width: 100%;
+	height: 100px;
+	background: gold;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.b3 {
+	width: 100%;
+	height: 100px;
+	background: cadetblue;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.b4 {
+	width: 100%;
+	height: 100px;
+	background: coral;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.b5 {
+	width: 100%;
+	height: 100px;
+	background: crimson;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.b6 {
+	width: 100%;
+	height: 100px;
+	background: forestgreen;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.b7 {
+	width: 100%;
+	height: 100px;
+	background: darkorchid;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.b8 {
+	width: 100%;
+	height: 100px;
+	background: hotpink;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.b9 {
+	width: 100%;
+	height: 100px;
+	background: indigo;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.b10 {
+	width: 100%;
+	height: 100px;
+	background: dodgerblue;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.top2 {
+	display: flex;
+}
+.about-bottom {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 2%;
+}
+
+img {
+	margin-top: 0.5%;
+	margin-bottom: 0.5%;
 }
 .square {
 	margin: 1.5%;
@@ -228,13 +320,13 @@ img{
 }
 
 button {
-    background-color: white !important;
-    border-color: black;
+	background-color: white !important;
+	border-color: black;
 	color: black;
 	width: 30%;
 	height: auto;
-    padding: 3px;
-    padding-bottom:4px;
+	padding: 3px;
+	padding-bottom: 4px;
 	font-size: 15px;
 	border-radius: 6px;
 	margin-top: 2%;
